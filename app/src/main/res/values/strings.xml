@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COEN390_Assignmen2</string>
+    <string name="more">more</string>
+    <string name="todo">TODO</string>
+    <string name="display_main"></string>
+    <string name="access_history">Access History</string>
+    <string name="user_profile">User Profile</string>
+</resources>
